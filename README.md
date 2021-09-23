@@ -1,2 +1,6 @@
-# git-essentials
-GitHub 201 Kaleb
+## git-essentials
+# Patrick Oestemer course file
+
+### GitHub 201 Kaleb
+
+Here we go!
